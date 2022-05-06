@@ -8,6 +8,7 @@ public class OlxAdvertidementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OlxAdvertidementApplication.class, args);
+
 	}
 
 }
